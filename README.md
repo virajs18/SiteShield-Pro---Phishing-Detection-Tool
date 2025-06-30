@@ -4,7 +4,7 @@
 
 A modern, production-ready web application that provides real-time URL security analysis using the VirusTotal API. Built with React, TypeScript, and Tailwind CSS.
 
-![SiteShield Pro Screenshot](https://classy-duckanoo-223883.netlify.app)
+![SiteShield Pro Screenshot](https://siteshieldpro.netlify.app)
 
 ## 🌟 Features
 
@@ -17,7 +17,7 @@ A modern, production-ready web application that provides real-time URL security 
 
 ## 🚀 Live Demo
 
-Visit the live application: [https://classy-duckanoo-223883.netlify.app](https://classy-duckanoo-223883.netlify.app)
+Visit the live application: [https://siteshieldpro.netlify.app](https://siteshieldpro.netlify.app)
 
 ## 🛠️ Tech Stack
 
